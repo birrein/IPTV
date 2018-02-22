@@ -3,7 +3,7 @@
 #Canales de TV y Radios online
 #playlist: http://lao.pe/tv
 #cambios: http://lao.pe/b/
-#ultima actualizacion: 08/01/2018
+#ultima actualizacion: 20/02/2018
 #
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
@@ -23,8 +23,14 @@
 #
 #*****************************
 
-#EXTINF:-1, tvg-logo="http://i.imgur.com/" group-title="Leeme",- [COLOR cyan]Actualizado 08/01/2018[/COLOR] -
+#EXTINF:-1, tvg-logo="http://i.imgur.com/" group-title="Leeme",- [COLOR cyan]Actualizado 20/02/2018[/COLOR] -
 http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/fKByJrs.png" group-title="Eventos", -[COLOR red]Eventos[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/H3cPpIc.png" group-title="Eventos", Viña 2018 | CHV | HD
+http://mdstrm.com/live-stream-playlist/5988625542916c5029e26e36.m3u8
 
 #EXTINF:-1, tvg-logo="http://i.imgur.com/fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
 http://127.0.0.1
@@ -42,7 +48,7 @@ http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 
 #EXTINF:-1, tvg-logo="http://i.imgur.com/H3cPpIc.png" group-title="Canales Chilenos", CHV | SD
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+http://mdstrm.com/live-stream-playlist/5988625542916c5029e26e36.m3u8#1
 
 #EXTINF:-1, tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="Canales Chilenos", Canal 13 | SD
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
